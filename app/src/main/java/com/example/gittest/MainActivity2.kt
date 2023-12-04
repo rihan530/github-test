@@ -13,4 +13,7 @@ class MainActivity2 : AppCompatActivity() {
     override fun finish() {
         super.finish()
     }
+
+
+    // 테스트
 }
